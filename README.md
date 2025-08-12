@@ -59,6 +59,7 @@ Throughout this journey, I am focusing on mastering:
 - Managing version control with Git workflow
 - Building projects that solve real problems
 
+---
 ## How to Use This Repo
 
 - Follow along with my daily or weekly learning notes  
