@@ -1,6 +1,6 @@
 # My Python Learning Journey
 
-Welcome to my Python learning repository! This repo chronicles my progress and projects as I master the Python programming language.
+Welcome to my Python learning journey repository! This repo documents my progress, key learnings, projects, and resources as I work towards mastering the Python programming language.
 
 ## Why Python?
 
