@@ -70,7 +70,9 @@ Throughout this journey, I am focusing on mastering:
 
 - Build intermediate to advanced projects  
 - Contribute to open-source Python projects  
-- Explore specialized fields like data science or web development  
+- Explore specialized fields like data science and machine learning
+- Explore back end frameworks such as Flask or Django 
+- Develop a full-stack web application with Flask and React 
 
 ---
 ## Resources and References
@@ -80,5 +82,5 @@ Throughout this journey, I am focusing on mastering:
 
 ---
 
-Thank you for visiting my Python learning repository! Feel free to explore and learn alongside me.
+Thank you for visiting my Python learning journey repository! Feel free to explore, learn, and share your feedback.
 
