@@ -73,6 +73,12 @@ Throughout this journey, I am focusing on mastering:
 - Explore specialized fields like data science or web development  
 
 ---
+## Resources and References
+
+- [Official Python Documentation](https://docs.python.org/3/)  
+- [Git Handbook](https://git-scm.com/doc) for version control
+
+---
 
 Thank you for visiting my Python learning repository! Feel free to explore and learn alongside me.
 
