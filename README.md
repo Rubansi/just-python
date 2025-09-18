@@ -27,8 +27,9 @@ My structured learning path includes the following stages:
 2. **Core Concepts**  
    Exception handling, modules, file I/O, and working with libraries
 
-3. **Data Structures and Algorithms**  
+3. **Data Structures and Algorithms** 
    Lists, tuples, dictionaries, sets, and basic algorithms
+   
 
 4. **Object-Oriented Programming (OOP)**  
    Classes, inheritance, encapsulation, and polymorphism
