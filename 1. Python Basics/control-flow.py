@@ -15,4 +15,6 @@ while not customerWaiting.isdigit() or int(customerWaiting) < 0:
 customerWaiting = int(customerWaiting)
 print(f"There are {customerWaiting} customers waiting.")
 
+if customerWaiting > 5:
+    print("We have a lot of customers today!")
     
